@@ -1,0 +1,11 @@
+ID,Name,Status,Calories,Duration
+1,Alice,Active,2000,30
+2,Bob,Inactive,,45
+3,Charlie,,1800,25
+4,David,NaN,2200,35
+5,Eve,Running,1900,40
+6,Frank,123,2100,50
+7,Grace,75.5,2050,20
+8,Hannah,,NaN,60
+9,Ian,Active,,55
+10,Jane,,2300,15
